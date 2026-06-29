@@ -68,4 +68,4 @@
 
 Весь материал предоставляется «как есть» исключительно в целях повышения цифровой грамотности и информированности о рисках, связанных с приватностью.
 
-[Вернуться к каталогу OSINT-инструментов](https://github.com/osint-and-search/probiv_i_OSINT_instrumenti)
+[Вернуться к каталогу OSINT-инструментов](https://github.com/osint-and-search/poiskovie_i_OSINT_instrumenti)
